@@ -1,42 +1,42 @@
 [
   {
-    "objectID": "slides.html#plotly",
-    "href": "slides.html#plotly",
+    "objectID": "index.html#plotly",
+    "href": "index.html#plotly",
     "title": "Quarto + reveal.js",
     "section": "Plotly",
     "text": "Plotly\n\n\n\n\n                                                \nFigure 2: A plot made using plotly express"
   },
   {
-    "objectID": "slides.html#jupyter-widgets",
-    "href": "slides.html#jupyter-widgets",
+    "objectID": "index.html#jupyter-widgets",
+    "href": "index.html#jupyter-widgets",
     "title": "Quarto + reveal.js",
     "section": "Jupyter Widgets",
     "text": "Jupyter Widgets"
   },
   {
-    "objectID": "slides.html#figures-with-subcaptions",
-    "href": "slides.html#figures-with-subcaptions",
+    "objectID": "index.html#figures-with-subcaptions",
+    "href": "index.html#figures-with-subcaptions",
     "title": "Quarto + reveal.js",
     "section": "Figures with Subcaptions",
     "text": "Figures with Subcaptions\n\n\n\n\n\n\n\n(a) First\n\n\n\n\n\n\n\n(b) Second\n\n\n\n\nFigure 3: Charts"
   },
   {
-    "objectID": "slides.html#block-layout",
-    "href": "slides.html#block-layout",
+    "objectID": "index.html#block-layout",
+    "href": "index.html#block-layout",
     "title": "Quarto + reveal.js",
     "section": "Block Layout",
     "text": "Block Layout\n\n\n\nList One\n\nItem A\nItem B\nItem C\n\n\n\nList Two\n\nItem X\nItem Y\nItem Z"
   },
   {
-    "objectID": "slides.html#placing-colorbars",
-    "href": "slides.html#placing-colorbars",
+    "objectID": "index.html#placing-colorbars",
+    "href": "index.html#placing-colorbars",
     "title": "Quarto + reveal.js",
     "section": "Placing Colorbars",
     "text": "Placing Colorbars\nColorbars indicate the quantitative extent of image data. Placing in a figure is non-trivial because room needs to be made for them. The simplest case is just attaching a colorbar to each axes:1.\n\n\n\n\n\nSee the Matplotlib Gallery to explore colorbars further"
   },
   {
-    "objectID": "slides.html#extras",
-    "href": "slides.html#extras",
+    "objectID": "index.html#extras",
+    "href": "index.html#extras",
     "title": "Quarto + reveal.js",
     "section": "Extras",
     "text": "Extras\n\n\n\n\n\n\nNote\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important.\n\n\n\n\nTesting lists\nTesting\n\nTesting\nTesting again\n\ntriple Checkboxes\n\nNested lists\n\nCheckboxes ??"
